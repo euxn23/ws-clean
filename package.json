@@ -1,0 +1,19 @@
+{
+  "name": "ws-clean",
+  "version": "1.0.2",
+  "description": "cli command to clean node_modules in workspaces",
+  "main": "index.js",
+  "bin": {
+    "ws-clean": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/euxn23/ws-clean.git"
+  },
+  "keywords": ["clean", "workspace", "woskspaces", "monorepo"],
+  "author": "euxn23",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/euxn23/ws-clean/issues"
+  }
+}
